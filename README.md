@@ -36,17 +36,13 @@
 
 ### 🎥 Görev Videoları
 
-| # | Video Başlığı | İlgili Proje |
-|---|---------------|--------------|
-| 1 | 🔄 Drone ile 8 Çizme | Drone Kontrol & Manevra |
-| 2 | 🎯 Drone Hedef | [Talon-Hedef](./Talon-Hedef/) |
-| 3 | 🚀 KAF Technology 2025 Teknofest Uluslararası İHA Yarışması Finali | Tüm Proje |
-| 4 | 📷 QR Okuma | [Talon-QRKOD](./Talon-QRKOD/) |
-| 5 | 🔭 Talon Takip | [Talon-Hedef](./Talon-Hedef/) |
-
-[![Instagram](https://img.shields.io/badge/Instagram-Demo_Video-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DOlwFNEjAgm/)
-
-> 📁 Tüm video dosyaları [`media/videos/`](./media/) klasöründe bulunmaktadır.
+| # | Video Başlığı | İlgili Proje | Link |
+|---|---------------|--------------|------|
+| 1 | 🔄 Drone ile 8 Çizme | Drone Kontrol & Manevra | [![YouTube](https://img.shields.io/badge/YouTube-İzle-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=-3l6RibzhVU) |
+| 2 | 🎯 Drone Hedef | [Talon-Hedef](./Talon-Hedef/) | [![YouTube](https://img.shields.io/badge/YouTube-İzle-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=W8S8yLs4SQ4) |
+| 3 | 🚀 KAF Technology 2025 Teknofest Uluslararası İHA Yarışması Finali | Tüm Proje | [![YouTube](https://img.shields.io/badge/YouTube-İzle-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=HJHqJXLqcUU) |
+| 4 | 📷 QR Okuma | [Talon-QRKOD](./Talon-QRKOD/) | [![YouTube](https://img.shields.io/badge/YouTube-İzle-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=T32rkH-ke4E) |
+| 5 | 🔭 Talon Takip | [Talon-Hedef](./Talon-Hedef/) | [![YouTube](https://img.shields.io/badge/YouTube-İzle-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=Io_pixyaQkQ) |
 
 ---
 
@@ -110,17 +106,13 @@ source devel/setup.bash
 
 ### 🎥 Mission Videos
 
-| # | Video Title | Related Project |
-|---|-------------|-----------------|
-| 1 | 🔄 Drawing Figure-8 with Drone | Drone Control & Maneuver |
-| 2 | 🎯 Drone Target | [Talon-Hedef](./Talon-Hedef/) |
-| 3 | 🚀 KAF Technology 2025 Teknofest International UAV Competition Final | Full Project |
-| 4 | 📷 QR Code Reading | [Talon-QRKOD](./Talon-QRKOD/) |
-| 5 | 🔭 Talon Tracking | [Talon-Hedef](./Talon-Hedef/) |
-
-[![Instagram](https://img.shields.io/badge/Instagram-Demo_Video-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DOlwFNEjAgm/)
-
-> 📁 All video files are located in the [`media/videos/`](./media/) folder.
+| # | Video Title | Related Project | Link |
+|---|-------------|-----------------|------|
+| 1 | 🔄 Drawing Figure-8 with Drone | Drone Control & Maneuver | [![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=-3l6RibzhVU) |
+| 2 | 🎯 Drone Target | [Talon-Hedef](./Talon-Hedef/) | [![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=W8S8yLs4SQ4) |
+| 3 | 🚀 KAF Technology 2025 Teknofest International UAV Competition Final | Full Project | [![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=HJHqJXLqcUU) |
+| 4 | 📷 QR Code Reading | [Talon-QRKOD](./Talon-QRKOD/) | [![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=T32rkH-ke4E) |
+| 5 | 🔭 Talon Tracking | [Talon-Hedef](./Talon-Hedef/) | [![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=Io_pixyaQkQ) |
 
 ---
 
